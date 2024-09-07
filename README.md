@@ -8,7 +8,7 @@ PS: The decryptor builds from the threat actor mentioned in the talk.
 
 ### Links mentioned:
 
-	https://vxintelligence.io
+	https://vxintelligence.com
 	https://tracker.0btemoslab.com
 	https://beta.virusbay.io
 
